@@ -44,7 +44,8 @@
     <img src="https://skillicons.dev/icons?i=ai,pr,ps,ae,au,wordpress&perline=12"/>
   </a>
 </p>
-
+<br>
+<!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 
@@ -52,13 +53,43 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://www.instagram.com/reel/DDht9WGv32U/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" title="Computacion cuantica">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
+     <a href="https://www.instagram.com/reel/DBNPjJsv6m1/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" title="arsat1">
+     <img align="center" width=100% src="https://github.com/LuccianoR/LuccianoR/blob/main/fotos/arsat1.webp"   alt="VIDEO" /></a>
+    </p>
     <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://www.instagram.com/lucciano_risso/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://www.tiktok.com/@lucciano_risso?is_from_webapp=1&sender_device=pc" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
 
+<td width="25%" align="center">
+    <p align="center">
+     <a href="https://www.instagram.com/reel/DDht9WGv32U/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" title="cuantica">
+     <img align="center" width=100% src="https://github.com/LuccianoR/LuccianoR/blob/main/fotos/cuantica.webp"   alt="VIDEO" /></a>
+    </p>
+    <p align="center">
+      <a href="https://www.instagram.com/lucciano_risso/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://www.tiktok.com/@lucciano_risso?is_from_webapp=1&sender_device=pc" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+  
 
+<td width="25%" align="center">
+    <p align="center">
+     <a href="https://www.instagram.com/p/C_y1_pePjdv/" title="bajar">
+     <img align="center" width=100% src="https://github.com/LuccianoR/LuccianoR/blob/main/fotos/bajar.webp"   alt="VIDEO" /></a>
+    </p>
+    <p align="center">
+      <a href="https://www.instagram.com/lucciano_risso/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://www.tiktok.com/@lucciano_risso?is_from_webapp=1&sender_device=pc" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+
+</tr>
+</table>
+  </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
