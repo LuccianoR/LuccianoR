@@ -16,7 +16,7 @@
   
   🎥 CREADOR DE CONTENIDO de divulgación científica.
   
-  💻 Experiencia en el diseño web y publicitario
+  💻 Experiencia en el diseño <a href="https://yolandaaguilarabogada.com/">Web</a> y publicitario
   
   📫 Contacto: **luccianorisso@gmail.com**
 <!--Intro end-->
