@@ -19,6 +19,8 @@
   💻 Experiencia en el diseño <a href="https://yolandaaguilarabogada.com/">Web</a> y publicitario
   
   📫 Contacto: **luccianorisso@gmail.com**
+
+  ​💼​ CV: <a href="https://github.com/LuccianoR/LuccianoR/blob/main/Lucciano%20Risso%20CV%20(Estudiante%20de%20Ciencias%20de%20la%20Computacion-%20Creador%20de%20contenido).pdf">Programador</a>
 <!--Intro end-->
   </p>
 <br>
