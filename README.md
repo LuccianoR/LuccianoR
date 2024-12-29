@@ -14,7 +14,7 @@
 <p align="left">
   🎓 Estudiante de CIENCIAS DE LA COMPUTACIÓN en la UBA.
 
-  🎓 Estudiante de CIENCIAS DE LA COMPUTACIÓN en la UBA.
+  ✏️ Técnico en DISEÑO y COMUNICACIÓ PUBLICITARIA.
   
   🎥 CREADOR DE CONTENIDO de divulgación científica.
   
