@@ -14,7 +14,7 @@
 <p align="left">
   🎓 Estudiante de CIENCIAS DE LA COMPUTACIÓN en la UBA.
 
-	✏️​ Ténico en dieño y comunicación publicitaria.
+  🎓 Estudiante de CIENCIAS DE LA COMPUTACIÓN en la UBA.
   
   🎥 CREADOR DE CONTENIDO de divulgación científica.
   
