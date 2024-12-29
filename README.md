@@ -9,23 +9,25 @@
   <a href = "mailto:luccianorisso@gmail" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>Sobre mi</h2>
 <!--Intro start-->
 <p align="left">
   🎓 Estudiante de CIENCIAS DE LA COMPUTACIÓN en la UBA.
+
+	✏️​ Ténico en dieño y comunicación publicitaria.
   
   🎥 CREADOR DE CONTENIDO de divulgación científica.
   
-  💻 Experiencia en el diseño <a href="https://yolandaaguilarabogada.com/">Web</a> y publicitario
+  💻 Experiencia en el diseño <a href="https://yolandaaguilarabogada.com/">Web</a> y publicitario.
   
   📫 Contacto: **luccianorisso@gmail.com**
 
-  ​💼​ CV: <a href="https://github.com/LuccianoR/LuccianoR/blob/main/Lucciano%20Risso%20CV%20(Estudiante%20de%20Ciencias%20de%20la%20Computacion-%20Creador%20de%20contenido).pdf">Programador</a>
+  ​💼​ CV:<a>href="https://github.com/LuccianoR/LuccianoR/blob/main/Lucciano%20Risso%20CV%20(Estudiante%20de%20Ciencias%20de%20la%20Computacion-%20Creador%20de%20contenido).pdf">Programador</a>
 <!--Intro end-->
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías conocidas</h2>
 <!--tech stack icons-->
 <p align="left">
   ​​💻​ Programación
@@ -49,7 +51,7 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2>Producciones</h2>
 
 <table align="left" >
 <tr border="none">
